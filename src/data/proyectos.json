@@ -13,7 +13,9 @@
         "id": "qualitechai",
         "titulo": "Qualitech AI",
         "imagenes": [
-            "src/images/qualitechai/sgc.qualitechai.com_login.png"
+            "src/images/qualitechai/sgc.qualitechai.com_login.png",
+            "src/images/qualitechai/sgc.qualitechai.com_cliente_login.png",
+            "src/images/qualitechai/sgc.qualitechai.com_cliente_academy_login.png"
         ],
         "tecnologias": "Laravel, PHP, GitHub, MySQL, Nodejs, Bootstrap4, HTML, CSS, JavaScript, JQuery",
         "descripcion": "Desarrollo del Sistema de Gestión de Calidad (ERP-17025) para la automatización, trazabilidad y control de procesos en laboratorios.",
@@ -82,7 +84,8 @@
         "id": "sitio-bordados",
         "titulo": "Sitio Web Bordados",
         "imagenes": [
-            "src/images/bordados/bordados.occidam.com_index.html.png"
+            "src/images/bordados/bordados.occidam.com_index.html.png",
+            "src/images/bordados/bordados.occidam.com_contact.html.png"
         ],
         "tecnologias": "HTML5, CSS3, Bootstrap 5, JavaScript, reCAPTCHA",
         "descripcion": "Sitio web corporativo para Bordados Occidam. Diseñado a medida para exhibir su catálogo de bordados personalizados y artículos promocionales, optimizando la presentación visual de sus trabajos y facilitando la captación de clientes a través de una interfaz rápida y responsiva.",
@@ -92,7 +95,12 @@
         "id": "sitio-gan-campo",
         "titulo": "Sitio Web Gan Campo",
         "imagenes": [
-            "src/images/gan_campo/gancampo.com.png"
+            "src/images/gan_campo/gancampo.com.png",
+            "src/images/gan_campo/gancampo.com_blog__v=3349b216197d.png",
+            "src/images/gan_campo/gancampo.com_nosotros-gancampo-spr-2.png",
+            "src/images/gan_campo/gancampo.com_cart_.png"
+
+
         ],
         "tecnologias": "WordPress",
         "descripcion": "Sitio web e-commerce para Gan Campo, empresa del sector agropecuario. Desarrollada 100% en WordPress con tienda en línea integrada, permitiendo la venta directa de productos. Su enfoque autoadministrable le brinda al cliente total autonomía para gestionar inventario, procesar pedidos y actualizar contenidos de forma intuitiva y ágil.",

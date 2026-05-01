@@ -221,6 +221,12 @@ body {
     position: relative;
     z-index: 2;
 }
+.logo-tec {
+    height: 50px;
+    width: auto;
+}
+
+
 
 @media (max-width: 767px) {
 

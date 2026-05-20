@@ -94,7 +94,7 @@ body {
     border-color: #ced4da;
 }
 .btn-contacto {
-    background: #343a40; /* gris oscuro elegante */
+    background: #24272b; /* gris oscuro elegante */
     color: #fff;
     border: none;
     border-radius: 50px;
@@ -226,7 +226,9 @@ body {
     width: auto;
 }
 
-
+.line-1-7 {
+    line-height: 1.7;
+}
 
 @media (max-width: 767px) {
 

@@ -117,6 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
             } else {
+                window.location.href = "/404.html";
                 document.getElementById("proyecto-titulo").innerText = "Proyecto no encontrado";
                 document.getElementById("carouselProyecto").style.display = "none";
             }
